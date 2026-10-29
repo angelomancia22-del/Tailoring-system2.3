@@ -1,0 +1,6 @@
+{
+  "name": "Customer Order and Measurements Management System",
+  "description": "Digital customer order, body measurement, job ticketing, and deadline tracking system for tailoring businesses.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
